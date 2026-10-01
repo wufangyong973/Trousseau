@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "ci-rename-typecheck-job",
+    "claude/compassionate-brown-2d2idn",
+    "dependabot/npm_and_yarn/minor-and-patch-43aba6fb2a",
+    "dependabot/npm_and_yarn/sentry/nextjs-11.0.0",
+    "dependabot/npm_and_yarn/vitest/coverage-v8-5.0.2",
+    "docs/roadmap-built-status",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "ci-rename-typecheck-job": "main",
+    "claude/compassionate-brown-2d2idn": "main",
+    "dependabot/npm_and_yarn/minor-and-patch-43aba6fb2a": "main",
+    "dependabot/npm_and_yarn/sentry/nextjs-11.0.0": "main",
+    "dependabot/npm_and_yarn/vitest/coverage-v8-5.0.2": "main",
+    "docs/roadmap-built-status": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "ci-rename-typecheck-job",
+    "claude/compassionate-brown-2d2idn",
+    "dependabot/npm_and_yarn/minor-and-patch-43aba6fb2a",
+    "dependabot/npm_and_yarn/sentry/nextjs-11.0.0",
+    "dependabot/npm_and_yarn/vitest/coverage-v8-5.0.2",
+    "docs/roadmap-built-status",
+    "origin"
+  ]
+}
